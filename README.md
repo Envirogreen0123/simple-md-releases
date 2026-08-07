@@ -18,10 +18,7 @@ Downloads, and nothing else. There is no source code here — this repository
 exists so the `.dmg` has a permanent address and so bugs have somewhere to be
 reported.
 
-- **Found a bug, or want to ask for something?** Open an
-  [issue](../../issues).
-- **Need help, or would rather not do it in public?** Email
-  <support@got2.app>.
+Found a bug, or want to ask for something? Open an [issue](../../issues).
 
 ## Privacy
 
@@ -31,4 +28,4 @@ and it works with the machine offline.
 
 ---
 
-From [Got2 Be Software](https://got2.app).
+From Got2 Be Software.
